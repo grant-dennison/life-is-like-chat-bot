@@ -1,4 +1,4 @@
-const token = "REDACTED"
+const token = process.env.DISCORD_TOKEN
 const prompt = "wisdom"
 const lifePrompt = "life"
 const hearPrompt = "hear"
